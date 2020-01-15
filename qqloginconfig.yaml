@@ -1,0 +1,6 @@
+appid: 1110073298
+appkey: 2pTEiUVT7QGGHATK
+reflect_url: https://192.168.124.40/main
+code_url: https://graph.qq.com/oauth2.0/authorize?response_type=code
+token_url: https://graph.qq.com/oauth2.0/token?grant_type=authorization_code
+openid_url: https://graph.qq.com/oauth2.0/me?access_token=
