@@ -1,0 +1,6 @@
+apikey: 9c223be40e3ab64c01e016820fb07abc
+way: POST
+url: https://sms.yunpian.com/v2/sms/single_send.json
+text: 【仁爱工作室】您的验证码是
+Accept: application/json;charset=utf-8
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
